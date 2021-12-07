@@ -30,7 +30,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "1800529719:AAGCj_yXBYDVSZPfyvBQljhSXp4mSVmUqWA"
+         "value": "5043871556:AAF9Pu9flpmtnypjBIOVfHIzX44-HF7NfY8"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -57,7 +57,7 @@
       },
     "HEROKU_API_KEY": {
       "description": "Your heroku api key (not compulsory)",
-      "value": "97f666e3-c0ff-4bf8-a3fb-d09ab9e66483",
+      "value": "bf2c7edd-c5e3-41fd-8061-25dd523892f3",
       "required": false  
     
       },    
