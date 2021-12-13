@@ -30,7 +30,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "5043871556:AAF9Pu9flpmtnypjBIOVfHIzX44-HF7NfY8"
+         "value": "5059068789:AAFghpw5-XmbpG9LxxyvV8hcWhCT2rmVFqo"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -57,7 +57,7 @@
       },
     "HEROKU_API_KEY": {
       "description": "Your heroku api key (not compulsory)",
-      "value": "bf2c7edd-c5e3-41fd-8061-25dd523892f3",
+      "value": "",
       "required": false  
     
       },    
@@ -151,7 +151,7 @@
       "URL": {
          "description": "The Heroku App URL",
          "required": false,
-         "value": "https://<appname>.herokuapp.com/"
+         "value": "https://natomoth1.herokuapp.com/"
       },
       "No_LOAD": {
          "description": "Dont load these modules cause they shit, space separation",
